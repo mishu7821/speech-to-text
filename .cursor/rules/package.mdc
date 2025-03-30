@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+ Note that the 'shadcn-ui' package is deprecated. Please use the 'shadcn' package like this "npx shadcn@latest init"
